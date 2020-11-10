@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HomePlanter</string>
+    <string name="harga">Harga Tanaman</string>
+    <string name="nama">Nama Tanaman</string>
+    <string name="detail">Detail Tanaman</string>
+    <string name="latin">Nama Latin</string>
+    <string name="deskripsi">Deskripsi</string>
 </resources>
