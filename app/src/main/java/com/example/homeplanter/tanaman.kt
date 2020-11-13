@@ -7,6 +7,5 @@ data class tanaman (
  var harga: String = "",
  var asal: String = "",
  var iklim: String = "",
- var matahari: String = "",
  var photo: Int = 0
 )

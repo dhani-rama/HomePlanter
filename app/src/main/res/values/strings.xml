@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">HomePlanter</string>
-    <string name="harga">Harga Tanaman</string>
+    <string name="harga">Harga</string>
     <string name="nama">Nama Tanaman</string>
+    <string name="asal">Asal</string>
+    <string name="dataran">Dataran</string>
     <string name="detail">Detail Tanaman</string>
     <string name="latin">Nama Latin</string>
     <string name="deskripsi">Deskripsi</string>
+    <string name="user">USER</string>
+    <string name="full_name">Ahmad Ramadhani</string>
+    <string name="email">rtqaj.id@gmail.com</string>
 </resources>

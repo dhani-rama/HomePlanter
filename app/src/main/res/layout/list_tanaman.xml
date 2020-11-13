@@ -35,6 +35,8 @@
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:maxLines="2"
+            android:textSize="14sp"
+            android:textStyle="normal"
             android:text="@string/harga"/>
 
     </LinearLayout>

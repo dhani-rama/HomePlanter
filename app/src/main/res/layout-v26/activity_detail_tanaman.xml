@@ -153,7 +153,7 @@
                 android:id="@+id/tv_deskripsi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="16sp"
+                android:textSize="16sp" 
                 android:justificationMode="inter_word"/>
 
         </LinearLayout>
